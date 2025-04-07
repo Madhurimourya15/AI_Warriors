@@ -1,0 +1,17 @@
+streamlit
+pandas
+openai
+google-generativeai
+python-docx
+Pillow
+reportlab
+langchain
+faiss-cpu
+tqdm
+docx2txt
+PyMuPDF
+unstructured
+sentence-transformers
+python-pptx
+lxml
+beautifulsoup4
