@@ -1,6 +1,6 @@
 streamlit
 pandas
-openai
+openai==0.28.0
 google-generativeai
 python-docx
 Pillow
@@ -11,7 +11,9 @@ tqdm
 docx2txt
 PyMuPDF
 unstructured
-sentence-transformers
+sentence-transformers==2.6.1
+transformers==4.40.0
 python-pptx
 lxml
 beautifulsoup4
+langchain_community
