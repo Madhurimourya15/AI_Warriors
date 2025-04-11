@@ -17,7 +17,7 @@ Manual document processing is tedious, error-prone, and time-consuming. Enterpri
 - Upload and process PDFs, Word files, scanned images, and documents with tables/charts.
 - Choose between **Gemini** or **Azure OpenAI** models (GPT-3.5, GPT-4, GPT-4o).
 - Extract text, tables, images, and metadata from documents.
-- Generate summaries (abstract, extractive, or comprehensive).
+- Generate summaries .
 - Perform Named Entity Recognition (NER).
 - Download the processed output in **JSON**, **XML**, **PDF**, **Excel**, and **Word** formats.
 - Compliant with security and privacy guardrails (GDPR/SOC2).
@@ -29,7 +29,7 @@ Manual document processing is tedious, error-prone, and time-consuming. Enterpri
 
 | Feature | Description |
 |--------|-------------|
-| 🔍 Summarization | Abstract, Extractive, or Full Document |
+| 🔍 Summarization |  Full Document |
 | 🧾 Table Extraction | Structured table data from documents |
 | 🧠 Named Entity Extraction | Persons, Locations, Dates, etc. |
 | 🖼️ Image Understanding | GPT-4o/GPT-4 native image processing |
@@ -50,8 +50,7 @@ Manual document processing is tedious, error-prone, and time-consuming. Enterpri
 
 ---
 
-## 📂 Directory Structure
-📁 your-project/ ├── app.py # Streamlit main application ├── utils/ │ ├── summarization.py # Summarization logic │ ├── extraction.py # Extraction (text, image, table) │ ├── format_exporter.py # Export to Word, PDF, JSON, etc. ├── assets/ │ └── tech.png # Company logo ├── requirements.txt # Python dependencies └── README.md
+
 
 Install dependencies:
   - pip install -r requirements.txt
